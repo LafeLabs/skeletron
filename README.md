@@ -1,4 +1,6 @@
 
+![](https://raw.githubusercontent.com/LafeLabs/skeletron/main/trashmagic/tripod.png)
+
 ![](https://raw.githubusercontent.com/LafeLabs/skeletron/main/trashmagic/qrcode.png)
 
 ![](https://raw.githubusercontent.com/LafeLabs/skeletron/main/trashmagic/qrcode-page.png)
